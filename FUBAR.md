@@ -1,10 +1,6 @@
 # SAlim Raji
-
-## Abdelrhman side
-
-
 # izzeldeen alqawasmeh 
-
-### here we will have  a conflict
-
+## Abdelrhman side
 ## Tala 
+### here we will have  a conflict
+### as i expect this should make the second conflict 
